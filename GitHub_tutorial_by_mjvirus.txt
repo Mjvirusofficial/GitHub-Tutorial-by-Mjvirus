@@ -1,0 +1,34 @@
+GitHub:- it is web hosting service which is used to upload the souce file of git in other words it's>
+
+Repository:- it is simplfy as database which contains all the information & history of our git file.
+
+Ye ek simple database hota h which contains all the information about our git file.
+
+It's Mj style:-
+
+*Make folder as mkdir MJVIRUS
+*Create txt file as touch mj.txt
+*Initilize this folder as git init
+*For cheak its initilize or not as git status
+*For adding all file type git add.
+*For commit the file type git commit -m (m for message) "Your message"
+
+*For cheak the commit id type git log
+*For small git id type git log --oneline
+*For see, the all commit file type git log --oneline -1,2,3,4 Which you want to see...!
+*Local commands finished...! NOW TIME TO UPLOAD THE GIT FILE INTO GITHUB WEB HOSTING SERVICE.
+
+################################ ONLINE UPLOAD OUR FILE ######################################
+
+GIT REMOTE ADD MJVIRUS & PASTE THE GITHUB REPO LINK.
+FOR CHEACK TYPE GIT REMOTE.
+GIT REMOTE -V FOR CHEACK THE LINK OF YOUR REMOTE FILE.
+THE FINAL TOUCH GIT PUSH -U MJVIRUS (YOUR REMOTE FILE) MASTER.
+
+NOW,YOU CAN SEE THE LOCAL FILE OF YOUR COMPUTER UPLOADED ON GITHUB#
+
+
+
+
+                                                                            THANK YOU...........!
+                                                                            IT'S MJVIRUSOFFICIAL#
