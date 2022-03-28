@@ -1,4 +1,4 @@
-GitHub:- it is web hosting service which is used to upload the souce file of git in other words it's>
+GitHub:- it is web hosting service which is used to upload the souce file of git.
 
 Repository:- it is simplfy as database which contains all the information & history of our git file.
 
